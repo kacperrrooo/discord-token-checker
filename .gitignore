@@ -4,3 +4,4 @@ tokens.txt
 invalid.txt
 valid.txt
 .DS_Store
+index-*
